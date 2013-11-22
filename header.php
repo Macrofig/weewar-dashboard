@@ -8,7 +8,7 @@
 <meta name=”viewport” content=”width=320″ />
 <title>WeeWar Game Status - by JuanO</title>
 
-<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://flitterize.com/weewar/style.css" type="text/css" media="screen" />
 
 </head>
 <body>
