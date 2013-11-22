@@ -1,0 +1,122 @@
+/* CSS TEMPLATE */
+html{
+	
+}
+
+body{
+	width: 400px;
+	margin: 0 auto 0 auto;
+	font: 62.5% sans-serif;
+
+}
+
+#header{
+	
+}
+
+#content{
+	
+}
+
+#footer{
+	
+}
+
+#gamelist{
+	
+}
+
+.gameid, .usergameid, #nogames{
+	list-style-type: none;
+}
+
+#header span{
+	margin: 0 0 0 auto;
+	text-align: right;
+	font-size: 1em;
+}
+
+ul{
+	clear: both;
+	margin: 20px auto 20px auto;
+}
+
+h1{
+	font-size: 2.4em;	
+}
+
+h2{
+	
+}
+
+h3{
+	
+}
+
+p{
+	color: #909090;
+	font-size: 1.2em;
+	text-align: justify;
+	line-height: 1.8em;
+}
+
+#username{
+	background-color: #eee;
+	height: 100px;
+}
+
+#username p{
+	width: 20%;
+	margin: 5px auto 5px 10px;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 1.5em;
+}
+
+#username p span{
+	font-size: 4em;
+	line-height: .8em;
+}
+
+li{
+	font-size: 1.5em;
+}
+
+a{
+	color: #333;
+}
+
+li a:hover{
+	background-color: #eee;
+}
+
+#username h2{
+	font-size: 3.5em;
+	float: right;
+	margin:0 10px 0 0;
+	color:#333;
+}
+
+#userimage{
+	width:140px;
+	margin: 0 auto 0 0;
+	float: right;
+}
+#username h2 span{
+	font-size: .8em;
+	float: right;
+	color: #909090;
+	font-weight: 500;
+}
+
+#usermeta{
+	border-top: 1px #333 solid;
+}
+
+#usermeta p{
+	
+}
+
+.strike{
+	text-decoration:line-through;
+}
